@@ -1,8 +1,0 @@
-https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js
-
-
-
-https://github.com/RagulMani/IES_Interns_2018docs.git
-
-
-44387809+RagulMani@users.noreply.github.com
